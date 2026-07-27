@@ -344,5 +344,3 @@ Seluruh file di atas sudah diberi komentar baris-per-baris beserta anotasi bentu
 - Liang, Y. dkk. (2022). [**HELP-DKT: an interpretable cognitive model of how students learn programming based on deep knowledge tracing**](https://www.nature.com/articles/s41598-022-07956-0). *Scientific Reports*, 12, 4012.
 - Repositori official: <https://github.com/liangyubuaa/HELP-DKT>
 - Vaswani, A. dkk. (2017). *Attention Is All You Need* — dasar `Transformer_Encoder.py` (positional encoding sinusoidal, skala `sqrt(d_model)`, FFN 4×).
-#   S t u d e n t - M o d e l  
- 
